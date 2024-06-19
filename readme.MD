@@ -49,3 +49,4 @@ Webcam
 HP Wide Vision HD Camera with integrated dual array digital microphone
 Audio features
 Bang & Olufsen; HP Audio Boost; Dual speakers
+# hp-7700HQ-Sequila
